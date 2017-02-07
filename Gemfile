@@ -20,6 +20,7 @@ gem 'puma', '~> 3.0'
 
 gem 'active_model_serializers'
 gem 'rack-cors' # This for Cross origin resource sharing gem, to make AJAX requests possible
+gem 'rspotify' # This is an API from spotify to get music on search.
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
